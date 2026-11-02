@@ -141,7 +141,7 @@ header {
 }
 
 .header-actions {
-    display: flex;
+    displajy: flex;
     align-items: center;
     gap: 20px;
 }
